@@ -1,0 +1,356 @@
+13:49:07.204 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+13:49:08.364 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+13:49:08.394 INFO  Loading Command: help. 
+13:49:08.402 INFO  Loading Command: ping. 
+13:49:08.408 INFO  Loading Command: youtube. 
+13:49:08.409 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+13:49:08.618 INFO  Loading Event: channelDelete 
+13:49:08.620 INFO  Loading Event: messageReactionAdd 
+13:49:08.622 INFO  Loading Event: voiceStateUpdate 
+13:49:08.624 INFO  Loading Event: clickButton 
+13:49:08.627 INFO  Loading Event: slashCreate 
+13:49:08.629 INFO  Loading Event: debug 
+13:49:08.631 INFO  Loading Event: error 
+13:49:08.634 INFO  Loading Event: guildCreate 
+13:49:08.645 INFO  Loading Event: guildDelete 
+13:49:08.646 INFO  Loading Event: guildUnavailable 
+13:49:08.647 INFO  Loading Event: interactionCreate 
+13:49:08.661 INFO  Loading Event: messageCreate 
+13:49:08.663 INFO  Loading Event: rateLimit 
+13:49:08.664 INFO  Loading Event: raw 
+13:49:08.666 INFO  Loading Event: ready 
+13:49:08.667 INFO  Loading Event: warn 
+13:49:08.669 INFO  Loading Event: shardDisconnect 
+13:49:08.671 INFO  Loading Event: shardError 
+13:49:08.672 INFO  Loading Event: shardReady 
+13:49:08.673 INFO  Loading Event: shardReconnecting 
+13:49:08.739 INFO  1 language(s) have loaded. (en-US) 
+13:49:09.421 INFO  MongoDB successfully connected 
+13:49:09.804 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+13:49:09.823 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+13:49:09.872 INFO  All guilds have been initialized. 
+13:49:09.872 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:49:09.873 INFO  Friends#5108, ready to serve [2] users in [1] servers. 
+13:49:09.873 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:49:10.048 INFO  Loaded Interactions for guild: Friends 
+13:49:19.708 ERROR Unhandled promise rejection: Cannot read property 'deleteReply' of undefined. 
+13:53:37.388 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+13:53:38.347 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+13:53:38.358 INFO  Loading Command: help. 
+13:53:38.360 INFO  Loading Command: ping. 
+13:53:38.365 INFO  Loading Command: youtube. 
+13:53:38.366 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+13:53:38.425 INFO  Loading Event: debug 
+13:53:38.426 INFO  Loading Event: error 
+13:53:38.428 INFO  Loading Event: guildCreate 
+13:53:38.430 INFO  Loading Event: guildDelete 
+13:53:38.431 INFO  Loading Event: guildUnavailable 
+13:53:38.433 INFO  Loading Event: interactionCreate 
+13:53:38.436 INFO  Loading Event: messageCreate 
+13:53:38.437 INFO  Loading Event: rateLimit 
+13:53:38.439 INFO  Loading Event: raw 
+13:53:38.440 INFO  Loading Event: ready 
+13:53:38.441 INFO  Loading Event: warn 
+13:53:38.444 INFO  Loading Event: channelDelete 
+13:53:38.445 INFO  Loading Event: messageReactionAdd 
+13:53:38.447 INFO  Loading Event: voiceStateUpdate 
+13:53:38.450 INFO  Loading Event: clickButton 
+13:53:38.452 INFO  Loading Event: slashCreate 
+13:53:38.453 INFO  Loading Event: shardDisconnect 
+13:53:38.454 INFO  Loading Event: shardError 
+13:53:38.455 INFO  Loading Event: shardReady 
+13:53:38.456 INFO  Loading Event: shardReconnecting 
+13:53:38.509 INFO  1 language(s) have loaded. (en-US) 
+13:53:38.990 INFO  MongoDB successfully connected 
+13:53:39.325 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+13:53:39.329 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+13:53:39.389 INFO  All guilds have been initialized. 
+13:53:39.389 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:53:39.390 INFO  Friends#5108, ready to serve [2] users in [1] servers. 
+13:53:39.390 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:53:39.539 INFO  Loaded Interactions for guild: Friends 
+13:54:02.184 ERROR Unhandled promise rejection: Cannot read property 'deleteReply' of undefined. 
+14:14:56.871 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+14:14:58.013 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+14:14:58.024 INFO  Loading Command: help. 
+14:14:58.026 INFO  Loading Command: ping. 
+14:14:58.032 INFO  Loading Command: youtube. 
+14:14:58.033 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+14:14:58.101 INFO  Loading Event: clickButton 
+14:14:58.103 INFO  Loading Event: slashCreate 
+14:14:58.105 INFO  Loading Event: debug 
+14:14:58.106 INFO  Loading Event: error 
+14:14:58.109 INFO  Loading Event: guildCreate 
+14:14:58.111 INFO  Loading Event: guildDelete 
+14:14:58.112 INFO  Loading Event: guildUnavailable 
+14:14:58.113 INFO  Loading Event: interactionCreate 
+14:14:58.117 INFO  Loading Event: messageCreate 
+14:14:58.118 INFO  Loading Event: rateLimit 
+14:14:58.119 INFO  Loading Event: raw 
+14:14:58.120 INFO  Loading Event: ready 
+14:14:58.122 INFO  Loading Event: warn 
+14:14:58.125 INFO  Loading Event: channelDelete 
+14:14:58.127 INFO  Loading Event: messageReactionAdd 
+14:14:58.129 INFO  Loading Event: voiceStateUpdate 
+14:14:58.131 INFO  Loading Event: shardDisconnect 
+14:14:58.132 INFO  Loading Event: shardError 
+14:14:58.133 INFO  Loading Event: shardReady 
+14:14:58.134 INFO  Loading Event: shardReconnecting 
+14:14:58.189 INFO  1 language(s) have loaded. (en-US) 
+14:14:58.704 INFO  MongoDB successfully connected 
+14:14:58.997 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+14:14:59.000 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+14:14:59.037 INFO  All guilds have been initialized. 
+14:14:59.038 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:14:59.038 INFO  Friends#5108, ready to serve [3] users in [1] servers. 
+14:14:59.038 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:14:59.177 INFO  Loaded Interactions for guild: Friends 
+14:18:07.566 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+14:18:08.597 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+14:18:08.610 INFO  Loading Command: help. 
+14:18:08.612 INFO  Loading Command: ping. 
+14:18:08.618 INFO  Loading Command: youtube. 
+14:18:08.619 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+14:18:08.687 INFO  Loading Event: clickButton 
+14:18:08.690 INFO  Loading Event: slashCreate 
+14:18:08.692 INFO  Loading Event: shardDisconnect 
+14:18:08.693 INFO  Loading Event: shardError 
+14:18:08.695 INFO  Loading Event: shardReady 
+14:18:08.696 INFO  Loading Event: shardReconnecting 
+14:18:08.698 INFO  Loading Event: debug 
+14:18:08.699 INFO  Loading Event: error 
+14:18:08.701 INFO  Loading Event: guildCreate 
+14:18:08.703 INFO  Loading Event: guildDelete 
+14:18:08.705 INFO  Loading Event: guildUnavailable 
+14:18:08.706 INFO  Loading Event: interactionCreate 
+14:18:08.711 INFO  Loading Event: messageCreate 
+14:18:08.712 INFO  Loading Event: rateLimit 
+14:18:08.713 INFO  Loading Event: raw 
+14:18:08.715 INFO  Loading Event: ready 
+14:18:08.716 INFO  Loading Event: warn 
+14:18:08.718 INFO  Loading Event: channelDelete 
+14:18:08.720 INFO  Loading Event: messageReactionAdd 
+14:18:08.722 INFO  Loading Event: voiceStateUpdate 
+14:18:08.788 INFO  1 language(s) have loaded. (en-US) 
+14:18:09.336 INFO  MongoDB successfully connected 
+14:18:09.668 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+14:18:09.670 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+14:18:09.717 INFO  All guilds have been initialized. 
+14:18:09.718 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:09.718 INFO  Friends#5108, ready to serve [3] users in [1] servers. 
+14:18:09.718 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:09.850 INFO  Loaded Interactions for guild: Friends 
+14:18:25.790 ERROR Unhandled promise rejection: Cannot read property 'id' of undefined. 
+14:18:47.502 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+14:18:48.378 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+14:18:48.389 INFO  Loading Command: help. 
+14:18:48.392 INFO  Loading Command: ping. 
+14:18:48.398 INFO  Loading Command: youtube. 
+14:18:48.399 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+14:18:48.463 INFO  Loading Event: debug 
+14:18:48.464 INFO  Loading Event: error 
+14:18:48.466 INFO  Loading Event: guildCreate 
+14:18:48.468 INFO  Loading Event: guildDelete 
+14:18:48.469 INFO  Loading Event: guildUnavailable 
+14:18:48.470 INFO  Loading Event: interactionCreate 
+14:18:48.474 INFO  Loading Event: messageCreate 
+14:18:48.475 INFO  Loading Event: rateLimit 
+14:18:48.476 INFO  Loading Event: raw 
+14:18:48.477 INFO  Loading Event: ready 
+14:18:48.478 INFO  Loading Event: warn 
+14:18:48.480 INFO  Loading Event: clickButton 
+14:18:48.482 INFO  Loading Event: slashCreate 
+14:18:48.484 INFO  Loading Event: channelDelete 
+14:18:48.485 INFO  Loading Event: messageReactionAdd 
+14:18:48.487 INFO  Loading Event: voiceStateUpdate 
+14:18:48.489 INFO  Loading Event: shardDisconnect 
+14:18:48.490 INFO  Loading Event: shardError 
+14:18:48.491 INFO  Loading Event: shardReady 
+14:18:48.492 INFO  Loading Event: shardReconnecting 
+14:18:48.547 INFO  1 language(s) have loaded. (en-US) 
+14:18:48.938 INFO  MongoDB successfully connected 
+14:18:49.311 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+14:18:49.314 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+14:18:49.353 INFO  All guilds have been initialized. 
+14:18:49.353 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:49.354 INFO  Friends#5108, ready to serve [3] users in [1] servers. 
+14:18:49.354 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:49.537 INFO  Loaded Interactions for guild: Friends 
+14:18:56.278 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+14:18:57.257 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+14:18:57.260 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+14:18:57.328 INFO  Loading Command: help. 
+14:18:57.329 INFO  Loading Command: ping. 
+14:18:57.334 INFO  Loading Command: youtube. 
+14:18:57.338 INFO  Loading Event: debug 
+14:18:57.339 INFO  Loading Event: error 
+14:18:57.342 INFO  Loading Event: guildCreate 
+14:18:57.344 INFO  Loading Event: guildDelete 
+14:18:57.346 INFO  Loading Event: guildUnavailable 
+14:18:57.347 INFO  Loading Event: interactionCreate 
+14:18:57.350 INFO  Loading Event: messageCreate 
+14:18:57.352 INFO  Loading Event: rateLimit 
+14:18:57.353 INFO  Loading Event: raw 
+14:18:57.354 INFO  Loading Event: ready 
+14:18:57.356 INFO  Loading Event: warn 
+14:18:57.358 INFO  Loading Event: clickButton 
+14:18:57.360 INFO  Loading Event: slashCreate 
+14:18:57.362 INFO  Loading Event: channelDelete 
+14:18:57.364 INFO  Loading Event: messageReactionAdd 
+14:18:57.365 INFO  Loading Event: voiceStateUpdate 
+14:18:57.367 INFO  Loading Event: shardDisconnect 
+14:18:57.369 INFO  Loading Event: shardError 
+14:18:57.370 INFO  Loading Event: shardReady 
+14:18:57.371 INFO  Loading Event: shardReconnecting 
+14:18:57.431 INFO  1 language(s) have loaded. (en-US) 
+14:18:57.869 INFO  MongoDB successfully connected 
+14:18:58.166 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+14:18:58.170 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+14:18:58.227 INFO  All guilds have been initialized. 
+14:18:58.227 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:58.227 INFO  Friends#5108, ready to serve [3] users in [1] servers. 
+14:18:58.228 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:19:10.495 INFO  Loaded Interactions for guild: Friends 
+14:19:17.003 ERROR Unhandled promise rejection: Unknown Message. 
+14:20:35.819 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+14:20:36.780 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+14:20:36.790 INFO  Loading Command: help. 
+14:20:36.792 INFO  Loading Command: ping. 
+14:20:36.798 INFO  Loading Command: youtube. 
+14:20:36.799 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+14:20:36.859 INFO  Loading Event: debug 
+14:20:36.860 INFO  Loading Event: error 
+14:20:36.862 INFO  Loading Event: guildCreate 
+14:20:36.865 INFO  Loading Event: guildDelete 
+14:20:36.866 INFO  Loading Event: guildUnavailable 
+14:20:36.867 INFO  Loading Event: interactionCreate 
+14:20:36.871 INFO  Loading Event: messageCreate 
+14:20:36.872 INFO  Loading Event: rateLimit 
+14:20:36.873 INFO  Loading Event: raw 
+14:20:36.874 INFO  Loading Event: ready 
+14:20:36.875 INFO  Loading Event: warn 
+14:20:36.878 INFO  Loading Event: channelDelete 
+14:20:36.880 INFO  Loading Event: messageReactionAdd 
+14:20:36.882 INFO  Loading Event: voiceStateUpdate 
+14:20:36.883 INFO  Loading Event: clickButton 
+14:20:36.885 INFO  Loading Event: slashCreate 
+14:20:36.887 INFO  Loading Event: shardDisconnect 
+14:20:36.888 INFO  Loading Event: shardError 
+14:20:36.889 INFO  Loading Event: shardReady 
+14:20:36.890 INFO  Loading Event: shardReconnecting 
+14:20:36.942 INFO  1 language(s) have loaded. (en-US) 
+14:20:37.431 INFO  MongoDB successfully connected 
+14:20:37.846 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+14:20:37.850 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+14:20:37.901 INFO  All guilds have been initialized. 
+14:20:37.902 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:20:37.902 INFO  Friends#5108, ready to serve [3] users in [1] servers. 
+14:20:37.902 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:20:38.074 INFO  Loaded Interactions for guild: Friends 
+14:21:38.718 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+14:21:39.653 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+14:21:39.665 INFO  Loading Command: help. 
+14:21:39.667 INFO  Loading Command: ping. 
+14:21:39.673 INFO  Loading Command: youtube. 
+14:21:39.674 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+14:21:39.736 INFO  Loading Event: shardDisconnect 
+14:21:39.737 INFO  Loading Event: shardError 
+14:21:39.738 INFO  Loading Event: shardReady 
+14:21:39.740 INFO  Loading Event: shardReconnecting 
+14:21:39.741 INFO  Loading Event: clickButton 
+14:21:39.743 INFO  Loading Event: slashCreate 
+14:21:39.745 INFO  Loading Event: debug 
+14:21:39.746 INFO  Loading Event: error 
+14:21:39.748 INFO  Loading Event: guildCreate 
+14:21:39.750 INFO  Loading Event: guildDelete 
+14:21:39.751 INFO  Loading Event: guildUnavailable 
+14:21:39.753 INFO  Loading Event: interactionCreate 
+14:21:39.756 INFO  Loading Event: messageCreate 
+14:21:39.758 INFO  Loading Event: rateLimit 
+14:21:39.759 INFO  Loading Event: raw 
+14:21:39.761 INFO  Loading Event: ready 
+14:21:39.762 INFO  Loading Event: warn 
+14:21:39.764 INFO  Loading Event: channelDelete 
+14:21:39.766 INFO  Loading Event: messageReactionAdd 
+14:21:39.768 INFO  Loading Event: voiceStateUpdate 
+14:21:39.825 INFO  1 language(s) have loaded. (en-US) 
+14:21:40.231 INFO  MongoDB successfully connected 
+14:21:40.628 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+14:21:40.630 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+14:21:40.666 INFO  All guilds have been initialized. 
+14:21:40.667 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:21:40.667 INFO  Friends#5108, ready to serve [3] users in [1] servers. 
+14:21:40.667 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:21:40.811 INFO  Loaded Interactions for guild: Friends 
+16:00:27.781 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+16:00:28.775 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+16:00:28.788 INFO  Loading Command: help. 
+16:00:28.791 INFO  Loading Command: ping. 
+16:00:28.798 INFO  Loading Command: youtube. 
+16:00:28.798 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+16:00:28.872 INFO  Loading Event: debug 
+16:00:28.873 INFO  Loading Event: error 
+16:00:28.875 INFO  Loading Event: guildCreate 
+16:00:28.877 INFO  Loading Event: guildDelete 
+16:00:28.878 INFO  Loading Event: guildUnavailable 
+16:00:28.880 INFO  Loading Event: interactionCreate 
+16:00:28.885 INFO  Loading Event: messageCreate 
+16:00:28.886 INFO  Loading Event: rateLimit 
+16:00:28.887 INFO  Loading Event: raw 
+16:00:28.889 INFO  Loading Event: ready 
+16:00:28.890 INFO  Loading Event: warn 
+16:00:28.892 INFO  Loading Event: clickButton 
+16:00:28.895 INFO  Loading Event: slashCreate 
+16:00:28.897 INFO  Loading Event: channelDelete 
+16:00:28.899 INFO  Loading Event: messageReactionAdd 
+16:00:28.901 INFO  Loading Event: voiceStateUpdate 
+16:00:28.903 INFO  Loading Event: shardDisconnect 
+16:00:28.905 INFO  Loading Event: shardError 
+16:00:28.906 INFO  Loading Event: shardReady 
+16:00:28.908 INFO  Loading Event: shardReconnecting 
+16:00:28.963 INFO  1 language(s) have loaded. (en-US) 
+16:00:29.410 INFO  MongoDB successfully connected 
+16:00:29.800 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+16:00:29.803 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+16:00:29.850 INFO  All guilds have been initialized. 
+16:00:29.850 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:00:29.851 INFO  Friends#5108, ready to serve [1] users in [1] servers. 
+16:00:29.851 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:00:29.991 INFO  Loaded Interactions for guild: Friends 
+23:15:30.371 INFO  =-=-=-=-=-=-=- Loading shard(s) -=-=-=-=-=-=-= 
+23:15:31.508 INFO  =-=-=-=-=-=-=- Loading commands -=-=-=-=-=-=-= 
+23:15:31.523 INFO  Loading Command: help. 
+23:15:31.526 INFO  Loading Command: ping. 
+23:15:31.535 INFO  Loading Command: youtube. 
+23:15:31.536 INFO  =-=-=-=-=-=-=- Loading events -=-=-=-=-=-=-= 
+23:15:31.614 INFO  Loading Event: clickButton 
+23:15:31.617 INFO  Loading Event: slashCreate 
+23:15:31.619 INFO  Loading Event: debug 
+23:15:31.621 INFO  Loading Event: error 
+23:15:31.624 INFO  Loading Event: guildCreate 
+23:15:31.627 INFO  Loading Event: guildDelete 
+23:15:31.629 INFO  Loading Event: guildUnavailable 
+23:15:31.631 INFO  Loading Event: interactionCreate 
+23:15:31.636 INFO  Loading Event: messageCreate 
+23:15:31.638 INFO  Loading Event: rateLimit 
+23:15:31.640 INFO  Loading Event: raw 
+23:15:31.643 INFO  Loading Event: ready 
+23:15:31.645 INFO  Loading Event: warn 
+23:15:31.648 INFO  Loading Event: channelDelete 
+23:15:31.651 INFO  Loading Event: messageReactionAdd 
+23:15:31.653 INFO  Loading Event: voiceStateUpdate 
+23:15:31.655 INFO  Loading Event: shardDisconnect 
+23:15:31.657 INFO  Loading Event: shardError 
+23:15:31.658 INFO  Loading Event: shardReady 
+23:15:31.660 INFO  Loading Event: shardReconnecting 
+23:15:31.728 INFO  1 language(s) have loaded. (en-US) 
+23:15:32.307 INFO  MongoDB successfully connected 
+23:15:33.494 INFO  Shard: 0 has became ready with: 0 unavailable guilds. 
+23:15:33.498 INFO  =-=-=-=-=-=-=- Loading Guild Specific Interaction(s) -=-=-=-=-=-=-= 
+23:15:33.560 INFO  All guilds have been initialized. 
+23:15:33.560 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+23:15:33.560 INFO  Friends#5108, ready to serve [7] users in [1] servers. 
+23:15:33.560 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+23:15:33.780 INFO  Loaded Interactions for guild: Friends 
+
+
